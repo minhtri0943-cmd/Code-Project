@@ -1,0 +1,14 @@
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\bin\Debug\net8.0\GiaiPTB2.exe
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\bin\Debug\net8.0\GiaiPTB2.deps.json
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\bin\Debug\net8.0\GiaiPTB2.runtimeconfig.json
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\bin\Debug\net8.0\GiaiPTB2.dll
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\bin\Debug\net8.0\GiaiPTB2.pdb
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\GiaiPTB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\GiaiPTB2.AssemblyInfoInputs.cache
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\GiaiPTB2.AssemblyInfo.cs
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\GiaiPTB2.csproj.CoreCompileInputs.cache
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\GiaiPTB2.dll
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\refint\GiaiPTB2.dll
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\GiaiPTB2.pdb
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\GiaiPTB2.genruntimeconfig.cache
+C:\Users\truon\source\repos\GiaiPTB2\GiaiPTB2\obj\Debug\net8.0\ref\GiaiPTB2.dll
